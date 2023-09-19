@@ -1,4 +1,4 @@
-declare module "react-native-progress-circle" {
+declare module "@salvoguastella/react-native-progress-circle" {
   import * as React from "react";
   import * as ReactNative from "react-native";
 
